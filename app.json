@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Mamal joone",
+    "slug": "mamal-joone",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": { "supportsTablet": true },
+    "android": {
+      "package": "com.mamaljoone.app",
+      "adaptiveIcon": { "backgroundColor": "#F5F0E8" }
+    }
+  }
+}
